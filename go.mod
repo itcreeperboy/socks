@@ -1,4 +1,4 @@
-module h12.io/socks
+module github.com/itcreeperboy/socks
 
 go 1.9
 
